@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBBrian
+- 👋 Hi, I’m Brian
 - 📊 I’m interested in becoming a Data Analyst
 - 🧠 I have completed a Python bootcamp while working full-time
 - 👨‍💻 Currently working on a Data analysis project
