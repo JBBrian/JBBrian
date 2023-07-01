@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian
-- 📊 I’m interested in becoming a Data Analyst
+- 📊 I’m interested in becoming a professional programmer.
 - 🧠 I have completed a Python bootcamp while working full-time
 - 👨‍💻 Currently working on a Data analysis project
 - 📚 I am a quick and independent learner
