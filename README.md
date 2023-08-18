@@ -1,4 +1,4 @@
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](google.com)
 
 - 👋 Hi, I’m Brian
 - 📊 I’m interested in becoming a Data Analyst.
