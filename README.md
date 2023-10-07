@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Brian
 - 📊 I’m interested in becoming a Data Analyst
-- 🧠 I have completed multiple Udemy bootcamps while working full-time
+- 🧠 I have completed multiple Udemy bootcamps to reinforce my skillset
 - 👨‍💻 Currently solving LeetCode problems to strengthen my problem solving skills
 - 📚 I am a quick and independent learner
 - 💪 I’m looking to collaborate on any cool beginner projects!
