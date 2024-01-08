@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Brian
 - 📊 I’m interested in becoming a Data Analyst
 - 🧠 I have completed multiple Udemy bootcamps to reinforce my skillset
-- 👨‍💻 Currently working part-time as a Business Intelligence Administrator in Telecom
+- 👨‍💻 Currently working part-time as a Business Intelligence Administrator in the Telecom industry
 - 📚 I am a quick and independent learner
 - 💪 I’m looking to collaborate on any cool beginner projects!
 
